@@ -12,4 +12,4 @@ ANPR for russian tables
 6. http://javaanpr.sourceforge.net/ - javaANPR
 7. http://javaanpr.sourceforge.net/anpr.pdf - article about principles of ANPR
 8. https://github.com/oskopek/javaanpr - derivative from ANPR
-9. 
+9. https://github.com/openalpr
