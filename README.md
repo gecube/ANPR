@@ -13,3 +13,4 @@ ANPR for russian tables
 7. http://javaanpr.sourceforge.net/anpr.pdf - article about principles of ANPR
 8. https://github.com/oskopek/javaanpr - derivative from ANPR
 9. https://github.com/openalpr
+10. http://www.neurallabs.net/descargas/neurallabs216.pdf
